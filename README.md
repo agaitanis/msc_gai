@@ -1,5 +1,4 @@
 # msc_gai
-Projects for MSc course: Games & AI
 
 Video of bird flocking from project msc_gai_flocking:
 
